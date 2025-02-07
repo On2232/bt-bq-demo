@@ -9,6 +9,5 @@
         )
     }}
 
-    select * from customer.customer
-
+    select * from Customer.Customer
 {% endsnapshot %}
